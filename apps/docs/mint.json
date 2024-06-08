@@ -32,24 +32,11 @@
     },
     {
       "group": "EN 1991",
-      "pages": ["essentials/markdown"]
+      "pages": ["/"]
     },
     {
       "group": "Warranty",
-      "pages": ["api-reference/introduction"]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      "pages": ["/"]
     }
-  ],
-  "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  ]
 }

@@ -1,12 +1,9 @@
-import "./App.css";
-import { Card } from "../../../packages/ui/src/card";
-
 function App() {
   return (
     <>
-      <Card title="Card Title" href="https://example.com">
-        Card Content
-      </Card>
+      <div>
+        <h1 className="text-blue-800">Hello</h1>
+      </div>
     </>
   );
 }

@@ -15,23 +15,42 @@
     "name": "Structopia",
     "url": "https://structopia.tech"
   },
-  "tabs": [
-    {
-      "name": "Warranty",
-      "url": "en-1990"
-    },
-    {
-      "name": "Examples",
-      "url": "api-reference"
-    }
-  ],
+  "tabs": [],
   "navigation": [
     {
       "group": "EN 1990",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["/"]
     },
     {
       "group": "EN 1991",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1992",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1993",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1994",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1995",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1996",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1997",
+      "pages": ["/"]
+    },
+    {
+      "group": "EN 1998",
       "pages": ["/"]
     },
     {
